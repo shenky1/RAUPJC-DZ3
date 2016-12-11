@@ -1,0 +1,10 @@
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-3\Homework3\Homework3\bin\Debug\Homework3.dll.config
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-3\Homework3\Homework3\bin\Debug\Homework3.dll
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-3\Homework3\Homework3\bin\Debug\Homework3.pdb
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-3\Homework3\Homework3\bin\Debug\EntityFramework.dll
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-3\Homework3\Homework3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-3\Homework3\Homework3\bin\Debug\EntityFramework.xml
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-3\Homework3\Homework3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-3\Homework3\Homework3\obj\Debug\Homework3.dll
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-3\Homework3\Homework3\obj\Debug\Homework3.pdb
+C:\Users\Matija\Desktop\C#\RAUPJC-Homework-3\Homework3\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
